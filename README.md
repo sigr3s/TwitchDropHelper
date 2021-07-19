@@ -11,3 +11,5 @@ This app opens an edge tab with the streams of your chose and tracks the ammount
 4. Sit back and enjoy the streams.
 
 
+![App Screen](Images/AppScreenShot.png?raw=true "App Shot")
+![Working Screen](Images/WatchingStream.png?raw=true "Watching Shot")
